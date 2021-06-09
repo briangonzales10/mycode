@@ -40,17 +40,23 @@ def pickaPokemon():
 
                     
 def main():
-    selection = input('''
-                    1. Pick Pokemon by ID
-                    2. List all Legendary
-                    
-                    ''')
-    
-    if selection == '1':
-        pickaPokemon()
-    
-    if selection == '2':
-        legendary()
+    while True:
+        selection = input('''
+                        1. Pick Pokemon by ID
+                        2. List all Legendary
+                        
+                        ''')
+        
+        if selection == '1':
+            pickaPokemon()
+            break
+        
+        if selection == '2':
+            legendary()
+            break
+        else:
+            print('Please make a valid selection!\n')
+            continue
     
 
 if __name__ == '__main__':
