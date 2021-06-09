@@ -1,0 +1,13 @@
+PokeID: 1 
+Name: Bulbasaur
+Type1: Grass
+Type2: Poison
+Total: 318
+HP: 45
+Attack49: 
+Defense:49 
+Sp. Atk: 65
+Sp. Def: 65
+Speed: 45
+Generation: 1
+Legendary: False
