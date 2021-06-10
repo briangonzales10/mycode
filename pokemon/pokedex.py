@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+'''
+Pokemon Picker by Brian.
+
+Creates a file from pokedex.txt based on user chosen pokemon.
+'''
 import csv
 
 def printPokemon(id, name, t1, t2, total, hp, atk, defense, spatk, spd, speed, gen, leg, list):
@@ -31,6 +36,7 @@ def legendary():
 def pickaPokemon():
     
     pokeID = input("Choose a pokemon by ID: ")
+    
     
     with open("pokedex.txt", "r") as pokelist:
         with open('pickamon.txt', "w") as list:
