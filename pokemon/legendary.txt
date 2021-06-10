@@ -1,0 +1,1105 @@
+
+                        PokeID: 144
+                        Name: Articuno
+                        Type1: Ice
+                        Type2: Flying
+                        Total: 580
+                        HP: 90
+                        Attack: 85
+                        Defense: 100
+                        Sp. Atk: 95
+                        Sp. Def: 125
+                        Speed: 85
+                        Generation: 1
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 145
+                        Name: Zapdos
+                        Type1: Electric
+                        Type2: Flying
+                        Total: 580
+                        HP: 90
+                        Attack: 90
+                        Defense: 85
+                        Sp. Atk: 125
+                        Sp. Def: 90
+                        Speed: 100
+                        Generation: 1
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 146
+                        Name: Moltres
+                        Type1: Fire
+                        Type2: Flying
+                        Total: 580
+                        HP: 90
+                        Attack: 100
+                        Defense: 90
+                        Sp. Atk: 125
+                        Sp. Def: 85
+                        Speed: 90
+                        Generation: 1
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 150
+                        Name: Mewtwo
+                        Type1: Psychic
+                        Type2: 
+                        Total: 680
+                        HP: 106
+                        Attack: 110
+                        Defense: 90
+                        Sp. Atk: 154
+                        Sp. Def: 90
+                        Speed: 130
+                        Generation: 1
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 150
+                        Name: MewtwoMega Mewtwo X
+                        Type1: Psychic
+                        Type2: Fighting
+                        Total: 780
+                        HP: 106
+                        Attack: 190
+                        Defense: 100
+                        Sp. Atk: 154
+                        Sp. Def: 100
+                        Speed: 130
+                        Generation: 1
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 150
+                        Name: MewtwoMega Mewtwo Y
+                        Type1: Psychic
+                        Type2: 
+                        Total: 780
+                        HP: 106
+                        Attack: 150
+                        Defense: 70
+                        Sp. Atk: 194
+                        Sp. Def: 120
+                        Speed: 140
+                        Generation: 1
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 243
+                        Name: Raikou
+                        Type1: Electric
+                        Type2: 
+                        Total: 580
+                        HP: 90
+                        Attack: 85
+                        Defense: 75
+                        Sp. Atk: 115
+                        Sp. Def: 100
+                        Speed: 115
+                        Generation: 2
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 244
+                        Name: Entei
+                        Type1: Fire
+                        Type2: 
+                        Total: 580
+                        HP: 115
+                        Attack: 115
+                        Defense: 85
+                        Sp. Atk: 90
+                        Sp. Def: 75
+                        Speed: 100
+                        Generation: 2
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 245
+                        Name: Suicune
+                        Type1: Water
+                        Type2: 
+                        Total: 580
+                        HP: 100
+                        Attack: 75
+                        Defense: 115
+                        Sp. Atk: 90
+                        Sp. Def: 115
+                        Speed: 85
+                        Generation: 2
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 249
+                        Name: Lugia
+                        Type1: Psychic
+                        Type2: Flying
+                        Total: 680
+                        HP: 106
+                        Attack: 90
+                        Defense: 130
+                        Sp. Atk: 90
+                        Sp. Def: 154
+                        Speed: 110
+                        Generation: 2
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 250
+                        Name: Ho-oh
+                        Type1: Fire
+                        Type2: Flying
+                        Total: 680
+                        HP: 106
+                        Attack: 130
+                        Defense: 90
+                        Sp. Atk: 110
+                        Sp. Def: 154
+                        Speed: 90
+                        Generation: 2
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 377
+                        Name: Regirock
+                        Type1: Rock
+                        Type2: 
+                        Total: 580
+                        HP: 80
+                        Attack: 100
+                        Defense: 200
+                        Sp. Atk: 50
+                        Sp. Def: 100
+                        Speed: 50
+                        Generation: 3
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 378
+                        Name: Regice
+                        Type1: Ice
+                        Type2: 
+                        Total: 580
+                        HP: 80
+                        Attack: 50
+                        Defense: 100
+                        Sp. Atk: 100
+                        Sp. Def: 200
+                        Speed: 50
+                        Generation: 3
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 379
+                        Name: Registeel
+                        Type1: Steel
+                        Type2: 
+                        Total: 580
+                        HP: 80
+                        Attack: 75
+                        Defense: 150
+                        Sp. Atk: 75
+                        Sp. Def: 150
+                        Speed: 50
+                        Generation: 3
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 380
+                        Name: Latias
+                        Type1: Dragon
+                        Type2: Psychic
+                        Total: 600
+                        HP: 80
+                        Attack: 80
+                        Defense: 90
+                        Sp. Atk: 110
+                        Sp. Def: 130
+                        Speed: 110
+                        Generation: 3
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 380
+                        Name: LatiasMega Latias
+                        Type1: Dragon
+                        Type2: Psychic
+                        Total: 700
+                        HP: 80
+                        Attack: 100
+                        Defense: 120
+                        Sp. Atk: 140
+                        Sp. Def: 150
+                        Speed: 110
+                        Generation: 3
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 381
+                        Name: Latios
+                        Type1: Dragon
+                        Type2: Psychic
+                        Total: 600
+                        HP: 80
+                        Attack: 90
+                        Defense: 80
+                        Sp. Atk: 130
+                        Sp. Def: 110
+                        Speed: 110
+                        Generation: 3
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 381
+                        Name: LatiosMega Latios
+                        Type1: Dragon
+                        Type2: Psychic
+                        Total: 700
+                        HP: 80
+                        Attack: 130
+                        Defense: 100
+                        Sp. Atk: 160
+                        Sp. Def: 120
+                        Speed: 110
+                        Generation: 3
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 382
+                        Name: Kyogre
+                        Type1: Water
+                        Type2: 
+                        Total: 670
+                        HP: 100
+                        Attack: 100
+                        Defense: 90
+                        Sp. Atk: 150
+                        Sp. Def: 140
+                        Speed: 90
+                        Generation: 3
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 382
+                        Name: KyogrePrimal Kyogre
+                        Type1: Water
+                        Type2: 
+                        Total: 770
+                        HP: 100
+                        Attack: 150
+                        Defense: 90
+                        Sp. Atk: 180
+                        Sp. Def: 160
+                        Speed: 90
+                        Generation: 3
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 383
+                        Name: Groudon
+                        Type1: Ground
+                        Type2: 
+                        Total: 670
+                        HP: 100
+                        Attack: 150
+                        Defense: 140
+                        Sp. Atk: 100
+                        Sp. Def: 90
+                        Speed: 90
+                        Generation: 3
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 383
+                        Name: GroudonPrimal Groudon
+                        Type1: Ground
+                        Type2: Fire
+                        Total: 770
+                        HP: 100
+                        Attack: 180
+                        Defense: 160
+                        Sp. Atk: 150
+                        Sp. Def: 90
+                        Speed: 90
+                        Generation: 3
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 384
+                        Name: Rayquaza
+                        Type1: Dragon
+                        Type2: Flying
+                        Total: 680
+                        HP: 105
+                        Attack: 150
+                        Defense: 90
+                        Sp. Atk: 150
+                        Sp. Def: 90
+                        Speed: 95
+                        Generation: 3
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 384
+                        Name: RayquazaMega Rayquaza
+                        Type1: Dragon
+                        Type2: Flying
+                        Total: 780
+                        HP: 105
+                        Attack: 180
+                        Defense: 100
+                        Sp. Atk: 180
+                        Sp. Def: 100
+                        Speed: 115
+                        Generation: 3
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 385
+                        Name: Jirachi
+                        Type1: Steel
+                        Type2: Psychic
+                        Total: 600
+                        HP: 100
+                        Attack: 100
+                        Defense: 100
+                        Sp. Atk: 100
+                        Sp. Def: 100
+                        Speed: 100
+                        Generation: 3
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 386
+                        Name: DeoxysNormal Forme
+                        Type1: Psychic
+                        Type2: 
+                        Total: 600
+                        HP: 50
+                        Attack: 150
+                        Defense: 50
+                        Sp. Atk: 150
+                        Sp. Def: 50
+                        Speed: 150
+                        Generation: 3
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 386
+                        Name: DeoxysAttack Forme
+                        Type1: Psychic
+                        Type2: 
+                        Total: 600
+                        HP: 50
+                        Attack: 180
+                        Defense: 20
+                        Sp. Atk: 180
+                        Sp. Def: 20
+                        Speed: 150
+                        Generation: 3
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 386
+                        Name: DeoxysDefense Forme
+                        Type1: Psychic
+                        Type2: 
+                        Total: 600
+                        HP: 50
+                        Attack: 70
+                        Defense: 160
+                        Sp. Atk: 70
+                        Sp. Def: 160
+                        Speed: 90
+                        Generation: 3
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 386
+                        Name: DeoxysSpeed Forme
+                        Type1: Psychic
+                        Type2: 
+                        Total: 600
+                        HP: 50
+                        Attack: 95
+                        Defense: 90
+                        Sp. Atk: 95
+                        Sp. Def: 90
+                        Speed: 180
+                        Generation: 3
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 480
+                        Name: Uxie
+                        Type1: Psychic
+                        Type2: 
+                        Total: 580
+                        HP: 75
+                        Attack: 75
+                        Defense: 130
+                        Sp. Atk: 75
+                        Sp. Def: 130
+                        Speed: 95
+                        Generation: 4
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 481
+                        Name: Mesprit
+                        Type1: Psychic
+                        Type2: 
+                        Total: 580
+                        HP: 80
+                        Attack: 105
+                        Defense: 105
+                        Sp. Atk: 105
+                        Sp. Def: 105
+                        Speed: 80
+                        Generation: 4
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 482
+                        Name: Azelf
+                        Type1: Psychic
+                        Type2: 
+                        Total: 580
+                        HP: 75
+                        Attack: 125
+                        Defense: 70
+                        Sp. Atk: 125
+                        Sp. Def: 70
+                        Speed: 115
+                        Generation: 4
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 483
+                        Name: Dialga
+                        Type1: Steel
+                        Type2: Dragon
+                        Total: 680
+                        HP: 100
+                        Attack: 120
+                        Defense: 120
+                        Sp. Atk: 150
+                        Sp. Def: 100
+                        Speed: 90
+                        Generation: 4
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 484
+                        Name: Palkia
+                        Type1: Water
+                        Type2: Dragon
+                        Total: 680
+                        HP: 90
+                        Attack: 120
+                        Defense: 100
+                        Sp. Atk: 150
+                        Sp. Def: 120
+                        Speed: 100
+                        Generation: 4
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 485
+                        Name: Heatran
+                        Type1: Fire
+                        Type2: Steel
+                        Total: 600
+                        HP: 91
+                        Attack: 90
+                        Defense: 106
+                        Sp. Atk: 130
+                        Sp. Def: 106
+                        Speed: 77
+                        Generation: 4
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 486
+                        Name: Regigigas
+                        Type1: Normal
+                        Type2: 
+                        Total: 670
+                        HP: 110
+                        Attack: 160
+                        Defense: 110
+                        Sp. Atk: 80
+                        Sp. Def: 110
+                        Speed: 100
+                        Generation: 4
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 487
+                        Name: GiratinaAltered Forme
+                        Type1: Ghost
+                        Type2: Dragon
+                        Total: 680
+                        HP: 150
+                        Attack: 100
+                        Defense: 120
+                        Sp. Atk: 100
+                        Sp. Def: 120
+                        Speed: 90
+                        Generation: 4
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 487
+                        Name: GiratinaOrigin Forme
+                        Type1: Ghost
+                        Type2: Dragon
+                        Total: 680
+                        HP: 150
+                        Attack: 120
+                        Defense: 100
+                        Sp. Atk: 120
+                        Sp. Def: 100
+                        Speed: 90
+                        Generation: 4
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 491
+                        Name: Darkrai
+                        Type1: Dark
+                        Type2: 
+                        Total: 600
+                        HP: 70
+                        Attack: 90
+                        Defense: 90
+                        Sp. Atk: 135
+                        Sp. Def: 90
+                        Speed: 125
+                        Generation: 4
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 492
+                        Name: ShayminLand Forme
+                        Type1: Grass
+                        Type2: 
+                        Total: 600
+                        HP: 100
+                        Attack: 100
+                        Defense: 100
+                        Sp. Atk: 100
+                        Sp. Def: 100
+                        Speed: 100
+                        Generation: 4
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 492
+                        Name: ShayminSky Forme
+                        Type1: Grass
+                        Type2: Flying
+                        Total: 600
+                        HP: 100
+                        Attack: 103
+                        Defense: 75
+                        Sp. Atk: 120
+                        Sp. Def: 75
+                        Speed: 127
+                        Generation: 4
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 493
+                        Name: Arceus
+                        Type1: Normal
+                        Type2: 
+                        Total: 720
+                        HP: 120
+                        Attack: 120
+                        Defense: 120
+                        Sp. Atk: 120
+                        Sp. Def: 120
+                        Speed: 120
+                        Generation: 4
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 494
+                        Name: Victini
+                        Type1: Psychic
+                        Type2: Fire
+                        Total: 600
+                        HP: 100
+                        Attack: 100
+                        Defense: 100
+                        Sp. Atk: 100
+                        Sp. Def: 100
+                        Speed: 100
+                        Generation: 5
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 638
+                        Name: Cobalion
+                        Type1: Steel
+                        Type2: Fighting
+                        Total: 580
+                        HP: 91
+                        Attack: 90
+                        Defense: 129
+                        Sp. Atk: 90
+                        Sp. Def: 72
+                        Speed: 108
+                        Generation: 5
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 639
+                        Name: Terrakion
+                        Type1: Rock
+                        Type2: Fighting
+                        Total: 580
+                        HP: 91
+                        Attack: 129
+                        Defense: 90
+                        Sp. Atk: 72
+                        Sp. Def: 90
+                        Speed: 108
+                        Generation: 5
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 640
+                        Name: Virizion
+                        Type1: Grass
+                        Type2: Fighting
+                        Total: 580
+                        HP: 91
+                        Attack: 90
+                        Defense: 72
+                        Sp. Atk: 90
+                        Sp. Def: 129
+                        Speed: 108
+                        Generation: 5
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 641
+                        Name: TornadusIncarnate Forme
+                        Type1: Flying
+                        Type2: 
+                        Total: 580
+                        HP: 79
+                        Attack: 115
+                        Defense: 70
+                        Sp. Atk: 125
+                        Sp. Def: 80
+                        Speed: 111
+                        Generation: 5
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 641
+                        Name: TornadusTherian Forme
+                        Type1: Flying
+                        Type2: 
+                        Total: 580
+                        HP: 79
+                        Attack: 100
+                        Defense: 80
+                        Sp. Atk: 110
+                        Sp. Def: 90
+                        Speed: 121
+                        Generation: 5
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 642
+                        Name: ThundurusIncarnate Forme
+                        Type1: Electric
+                        Type2: Flying
+                        Total: 580
+                        HP: 79
+                        Attack: 115
+                        Defense: 70
+                        Sp. Atk: 125
+                        Sp. Def: 80
+                        Speed: 111
+                        Generation: 5
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 642
+                        Name: ThundurusTherian Forme
+                        Type1: Electric
+                        Type2: Flying
+                        Total: 580
+                        HP: 79
+                        Attack: 105
+                        Defense: 70
+                        Sp. Atk: 145
+                        Sp. Def: 80
+                        Speed: 101
+                        Generation: 5
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 643
+                        Name: Reshiram
+                        Type1: Dragon
+                        Type2: Fire
+                        Total: 680
+                        HP: 100
+                        Attack: 120
+                        Defense: 100
+                        Sp. Atk: 150
+                        Sp. Def: 120
+                        Speed: 90
+                        Generation: 5
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 644
+                        Name: Zekrom
+                        Type1: Dragon
+                        Type2: Electric
+                        Total: 680
+                        HP: 100
+                        Attack: 150
+                        Defense: 120
+                        Sp. Atk: 120
+                        Sp. Def: 100
+                        Speed: 90
+                        Generation: 5
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 645
+                        Name: LandorusIncarnate Forme
+                        Type1: Ground
+                        Type2: Flying
+                        Total: 600
+                        HP: 89
+                        Attack: 125
+                        Defense: 90
+                        Sp. Atk: 115
+                        Sp. Def: 80
+                        Speed: 101
+                        Generation: 5
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 645
+                        Name: LandorusTherian Forme
+                        Type1: Ground
+                        Type2: Flying
+                        Total: 600
+                        HP: 89
+                        Attack: 145
+                        Defense: 90
+                        Sp. Atk: 105
+                        Sp. Def: 80
+                        Speed: 91
+                        Generation: 5
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 646
+                        Name: Kyurem
+                        Type1: Dragon
+                        Type2: Ice
+                        Total: 660
+                        HP: 125
+                        Attack: 130
+                        Defense: 90
+                        Sp. Atk: 130
+                        Sp. Def: 90
+                        Speed: 95
+                        Generation: 5
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 646
+                        Name: KyuremBlack Kyurem
+                        Type1: Dragon
+                        Type2: Ice
+                        Total: 700
+                        HP: 125
+                        Attack: 170
+                        Defense: 100
+                        Sp. Atk: 120
+                        Sp. Def: 90
+                        Speed: 95
+                        Generation: 5
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 646
+                        Name: KyuremWhite Kyurem
+                        Type1: Dragon
+                        Type2: Ice
+                        Total: 700
+                        HP: 125
+                        Attack: 120
+                        Defense: 90
+                        Sp. Atk: 170
+                        Sp. Def: 100
+                        Speed: 95
+                        Generation: 5
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 716
+                        Name: Xerneas
+                        Type1: Fairy
+                        Type2: 
+                        Total: 680
+                        HP: 126
+                        Attack: 131
+                        Defense: 95
+                        Sp. Atk: 131
+                        Sp. Def: 98
+                        Speed: 99
+                        Generation: 6
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 717
+                        Name: Yveltal
+                        Type1: Dark
+                        Type2: Flying
+                        Total: 680
+                        HP: 126
+                        Attack: 131
+                        Defense: 95
+                        Sp. Atk: 131
+                        Sp. Def: 98
+                        Speed: 99
+                        Generation: 6
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 718
+                        Name: Zygarde50% Forme
+                        Type1: Dragon
+                        Type2: Ground
+                        Total: 600
+                        HP: 108
+                        Attack: 100
+                        Defense: 121
+                        Sp. Atk: 81
+                        Sp. Def: 95
+                        Speed: 95
+                        Generation: 6
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 719
+                        Name: Diancie
+                        Type1: Rock
+                        Type2: Fairy
+                        Total: 600
+                        HP: 50
+                        Attack: 100
+                        Defense: 150
+                        Sp. Atk: 100
+                        Sp. Def: 150
+                        Speed: 50
+                        Generation: 6
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 719
+                        Name: DiancieMega Diancie
+                        Type1: Rock
+                        Type2: Fairy
+                        Total: 700
+                        HP: 50
+                        Attack: 160
+                        Defense: 110
+                        Sp. Atk: 160
+                        Sp. Def: 110
+                        Speed: 110
+                        Generation: 6
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 720
+                        Name: HoopaHoopa Confined
+                        Type1: Psychic
+                        Type2: Ghost
+                        Total: 600
+                        HP: 80
+                        Attack: 110
+                        Defense: 60
+                        Sp. Atk: 150
+                        Sp. Def: 130
+                        Speed: 70
+                        Generation: 6
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 720
+                        Name: HoopaHoopa Unbound
+                        Type1: Psychic
+                        Type2: Dark
+                        Total: 680
+                        HP: 80
+                        Attack: 160
+                        Defense: 60
+                        Sp. Atk: 170
+                        Sp. Def: 130
+                        Speed: 80
+                        Generation: 6
+                        Legendary:True
+
+                        ------------------------------
+                          
+
+                        PokeID: 721
+                        Name: Volcanion
+                        Type1: Fire
+                        Type2: Water
+                        Total: 600
+                        HP: 80
+                        Attack: 110
+                        Defense: 120
+                        Sp. Atk: 130
+                        Sp. Def: 90
+                        Speed: 70
+                        Generation: 6
+                        Legendary:True
+
+                        ------------------------------
+                          

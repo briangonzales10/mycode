@@ -1,0 +1,17 @@
+
+                        PokeID: 151
+                        Name: Mew
+                        Type1: Psychic
+                        Type2: 
+                        Total: 600
+                        HP: 100
+                        Attack: 100
+                        Defense: 100
+                        Sp. Atk: 100
+                        Sp. Def: 100
+                        Speed: 100
+                        Generation: 1
+                        Legendary:False
+
+                        ------------------------------
+                          
