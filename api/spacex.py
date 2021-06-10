@@ -8,7 +8,7 @@ import requests
 import pandas as pd
 import time
 
-def main():
+def getCapsule():
     capsules = requests.get("https://api.spacexdata.com/v3/capsules").json()
     #example how to get capsule serial number for 1st object in list
     #print(capsules[0]["capsule_serial"])
@@ -29,14 +29,19 @@ def main():
         details = cap.get("details")
         resuse = cap.get("resuse_count")
 
-        print(f"{serial};{capid};{status};{launch};{launchu};{missions};{land};{typecap};{details};{resuse}",file=outfile )
-    
-    time.sleep(5)#delay time to finish writing the file
-    
+        print(f"{serial};{capid};{status};{launch};{launchu};{missions};{land};{typecap};{details};{resuse}",file=outfile )  
+          
+def readCapsule():
+    #read our newly created csv file
     capdata = pd.read_csv("capsule_data.csv",sep=";",header=0,index_col=0)
 
     print(capdata)
     print(capdata.shape)
+    
+def main():
+    getCapsule()
+    time.sleep(2)
+    readCapsule()
 
 if __name__ == "__main__":
     main()
