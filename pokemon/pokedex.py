@@ -7,6 +7,7 @@ Creates a file from pokedex.txt based on user chosen pokemon.
 import csv
 
 def printPokemon(id, name, t1, t2, total, hp, atk, defense, spatk, spd, speed, gen, leg, list):
+    # function to create data for txt files
                         print(f'''
                         PokeID: {id}
                         Name: {name}
@@ -25,6 +26,7 @@ def printPokemon(id, name, t1, t2, total, hp, atk, defense, spatk, spd, speed, g
                           ''', file=list)
 
 def legendary():
+    #function to print out list of legendary pokemon
     with open("pokedex.txt", "r") as pokelist:
         
         with open('legendary.txt', "w") as list:
@@ -34,7 +36,7 @@ def legendary():
                     printPokemon(pokemon[0],pokemon[1],pokemon[2],pokemon[3],pokemon[4],pokemon[5],pokemon[6],pokemon[7],pokemon[8],pokemon[9],pokemon[10],pokemon[11],pokemon[12],list)
                     
 def pickaPokemon():
-    
+    #function to print out a pokemon by ID
     pokeID = input("Choose a pokemon by ID: ")
     
     
