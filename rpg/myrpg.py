@@ -6,8 +6,11 @@ import os
 import requests
 import random
 
+#API endpoint for random APOD
 API = "https://api.nasa.gov/planetary/apod?count=1"
+
 def returnKey():
+  """Returns API key from key.txt"""
   with open("./key.txt", "r") as mykey:
     nasakey = mykey.read()
   nasakey = "&api_key="+ nasakey
@@ -25,8 +28,9 @@ Commands:
 ''')
 
 def showStatus():
-  os.system("clear")
   #print the player's current status
+  os.system("clear")
+  
   print(lastAction)
   print('---------------------------')
   print('You are at the ' + currentRoom +"!" +"\n")
@@ -150,6 +154,7 @@ while True:
     if move[1] in rooms[currentRoom]:
       #set the current room to the new room
       currentRoom = rooms[currentRoom][move[1]]
+      lastAction = ""
     #there is no door (link) to the new room
     else:
         lastAction = 'You can\'t go that way!'
@@ -161,13 +166,13 @@ while True:
       #add the item to their inventory
       inventory += [move[1]]
       #display a helpful message
-      print(move[1] + ' recieved!')
+      lastAction = f'{move[1]} recieved!'
       #delete the item from the room
       del rooms[currentRoom]['item']
     #otherwise, if the item isn't there to get
     else:
       #tell them they can't get it
-      print('Can\'t get ' + move[1] + '!')
+       lastAction = f"Can't get{move[1]}!"
   
   #define USE for objects in game
   if move[0] == 'use':
