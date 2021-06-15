@@ -42,16 +42,17 @@ def get_swords():
    if response is not None:
        html = BeautifulSoup(response, 'html.parser')
        swords = set()
-       for strong in html.select('strong'):
+       for strong in html.body.select('strong'):
           #print(strong)
             for sword in strong.text.split('\n'):
-                print(sword)
+                #print(sword)
                 # check if any integers in string- most likely not a name
                 # then not including any strings that are likely sentences and not names
                 # because they're longer than 4 words
-              # if len(name) > 1 and any(char.isdigit() for char in name) == False and len(name.split(' ')) < 6:
-                # names.add(name.strip())
-       return 
+                if len(sword) > 1 and any(char.isdigit() for char in sword) == False and 'A.' not in sword and 'B.' not in sword and 'C.' not in sword and 'D.' not in sword:
+                   swords.add(sword.replace(":", "").strip())
+                   print(sword.next_sibling)
+       return len(swords)
 
    # Raise an exception if we failed to get any data from the url
    raise Exception('Error retrieving contents at {}'.format(url))
